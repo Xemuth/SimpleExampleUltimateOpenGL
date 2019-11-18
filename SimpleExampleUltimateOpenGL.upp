@@ -1,0 +1,13 @@
+uses
+	Core,
+	UltimateOpenGL_V2;
+
+library
+	glfw3;
+
+file
+	SimpleExemple.cpp;
+
+mainconfig
+	"" = "";
+
