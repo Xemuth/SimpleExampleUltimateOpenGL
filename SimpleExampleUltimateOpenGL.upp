@@ -1,6 +1,6 @@
 uses
 	Core,
-	UltimateOpenGL_V2;
+	UltimateOpenGL_V3;
 
 library
 	glfw3;
